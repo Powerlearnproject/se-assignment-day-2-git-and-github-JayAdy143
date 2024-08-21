@@ -41,7 +41,7 @@ Commits represents individual changes or snapshots of the project, allowing trac
   
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 Benching allows developers to work on different features without affecting the main codebase.
-the importance of feature is to ensure that parallel development can occur without c'onflicts.
+the importance of feature is to ensure that parallel development can occur without conflicts.
 A typical workflow 
 - create new branch
 - switch to the branch
@@ -67,4 +67,4 @@ These tools can enhance by improving communications and transparency by ensuring
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
 The challenges is merge conflicts whereby it changes in diferrent branches and overlap.
 unclear commit messages
-Best practices include; regular commits with clear messages , Pull requests work flow and effetive README file.
+Best practices include; regular commits with clear messages , Pull requests work flow and effective README file.
